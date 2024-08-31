@@ -53,31 +53,6 @@ To upload your Power BI project to GitHub:
     - The insights that the dashboard provides.
     - How to use the dashboard.
 
-### **Example of README.md:**
-
-```markdown
-# OTT Platform Dashboard - Power BI
-
-## Overview
-This Power BI dashboard provides insights into the performance of major OTT platforms (Amazon Prime, Netflix, Disney+ Hotstar). It includes metrics related to subscriber growth, revenue, popular genres, and user engagement.
-
-## Features
-- **Subscriber Growth:** Visualizes the growth trend of subscribers across platforms.
-- **Revenue Distribution:** Compares the revenue contribution of each platform.
-- **Genre Popularity:** Displays the most popular genres across OTT platforms.
-- **Top Shows/Movies:** Highlights the top 5 most-watched shows/movies on each platform.
-
-## Data Sources
-- Subscriber data from public datasets.
-- Revenue data sourced from platform reports.
-- Synthetic data generated for genre popularity.
-
-## Usage
-1. Download the `.pbix` file from this repository.
-2. Open it in Power BI Desktop.
-3. Explore the dashboard using filters and slicers to view insights across platforms and time periods.
-```
-
 ### **5. Publish and Share:**
 Once uploaded, share the repository link with others so they can download the `.pbix` file, explore the dashboard, or contribute to the project.
 
